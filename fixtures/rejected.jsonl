@@ -1,0 +1,1 @@
+{"eventId":"bad-001","eventType":"order.placed","schemaVersion":2,"occurredAt":"2026-02-30T11:00:00.000Z","payload":{"orderId":"order-bad","customerId":"customer-007","currency":"CAD","items":[]}}
